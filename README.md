@@ -1,7 +1,7 @@
 # luxury-housing-analysis
 # 🏙️ Luxury Housing Sales Analysis – Bengaluru
 
-A complete **end-to-end real estate analytics solution** replicating an enterprise-level data pipeline using Python, SQL, and Power BI.  
+A complete **end-to-end real estate analytics solution** replicating an enterprise-level data pipeline using Python, MySQL, and Power BI.  
 The project analyzes over **100,000+ housing records** from the Bengaluru luxury real estate market to generate actionable business insights.
 
 ---
